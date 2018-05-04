@@ -1,0 +1,103 @@
+#undulator wavenumber	set wavenumber	counts
+679.976111	680.000000	1249.500	-598.802395
+678.019516	678.000000	1071.750	-598.444045
+676.013683	676.000000	1372.750	674.763833
+674.018001	674.000000	1370.000	672.494956
+672.018804	672.000000	1333.000	671.140940
+670.004899	670.000000	1340.750	668.896321
+668.007982	668.000000	1212.250	667.111408
+665.998670	666.000000	1543.500	664.893617
+663.992812	664.000000	1287.250	662.690524
+662.006187	662.000000	1264.000	661.375661
+659.989291	660.000000	812.000	659.195781
+658.016340	658.000000	676.250	657.030223
+655.993048	656.000000	515.500	655.307995
+654.006967	654.000000	403.250	653.594771
+652.006517	652.000000	441.000	651.465798
+650.009649	650.000000	631.000	649.350649
+648.005239	648.000000	1038.500	647.249191
+645.993413	646.000000	1161.000	645.994832
+644.014073	644.000000	1313.000	643.500644
+641.989696	642.000000	1333.750	641.436818
+639.993365	640.000000	1395.500	639.795266
+637.994146	638.000000	1175.750	637.755102
+635.978863	636.000000	806.750	636.132316
+633.919083	634.000000	464.250	633.713561
+631.968559	632.000000	141.500	632.111252
+629.929751	630.000000	121.250	630.119723
+627.940804	628.000000	431.750	627.746390
+625.953484	626.000000	1005.750	625.782228
+623.937435	624.000000	1318.000	624.219725
+621.951350	622.000000	1371.000	622.277536
+619.912763	620.000000	1453.250	620.732464
+617.936751	618.000000	1441.750	618.046972
+615.934332	616.000000	1356.000	616.142945
+613.929508	614.000000	1366.500	614.250614
+611.945969	612.000000	1351.750	611.995104
+609.916982	610.000000	1351.000	610.128127
+607.952185	608.000000	1291.750	608.272506
+605.901603	606.000000	1210.750	606.428138
+604.002495	604.000000	1289.000	604.594921
+601.960308	602.000000	1242.250	602.409639
+599.958555	600.000000	1240.500	600.600601
+598.003398	598.000000	1400.500	598.802395
+596.001509	596.000000	1392.000	596.658711
+593.987045	594.000000	1181.750	594.177065
+591.949534	592.000000	1325.500	592.066311
+589.933296	590.000000	1380.750	590.318772
+587.992730	588.000000	1326.500	588.235294
+585.993456	586.000000	1404.750	586.510264
+583.998590	584.000000	1380.750	585.137507
+581.968520	582.000000	1390.000	582.750583
+579.926483	580.000000	1404.000	580.720093
+
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao09_bl0 		# 10.000000 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao09_bl0 		# 20000 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao09_high 		# -10.000000 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao09_nc 		# 0 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao09_width 		# 1000 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao10_end 		# 0.000000 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao11_bl1 		# 0.000000 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao14_src_float 		# 0.499908 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao00_nc 		# -6.000000 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao01_bq0 		# -9.999939 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao02_nc 		# 0.000000 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao03_bq5 		# -8.000061 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao04_nc 		# 0.000000 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao05_bq4 		# 1.000061 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao06_bq3 		# 0.900055 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao07_bq2 		# 0.109924 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao08_bq1 		# 0.200012 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao15_qd1_float 		# -2.000000 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_a_nc 		# 0.000000 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_b_nc 		# 0.000000 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_c_nc 		# 0.000000 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m04_ao00_b_outer 		# -7.799835 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m04_ao01_b_in 		# -0.200012 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m04_ao02_b_inner 		# 0.000000 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m04_ao06_b_out 		# 0.000000 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m04_ao03_se_delay 		# 10000 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m04_ao03_se_high 		# 1.399994 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m04_ao03_se_trap_in 		# 1.399994 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m04_ao03_se_width 		# 0 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m04_ao04_sa_delay 		# 2600000 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m04_ao04_sa_high 		# -0.999969 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m04_ao04_sa_trap_out 		# 1.899994 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m04_ao04_sa_width 		# 1000 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m04_ao05_trap_float 		# 1.100372 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m04_ao07_bl4 		# 0.200012 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m04_ao08_bl5 		# 0.800049 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao13_reso 		# 1.000000 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m04_ao09_qd2_float 		# -2.000000 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao02_nc1 		# 0.000000 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao02_nc2 		# 0 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao02_nc3 		# 0.000000 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao02_nc4 		# 0 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao04_nc1 		# 0.000000 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao04_nc2 		# 0 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao04_nc3 		# 0.000610 		# None 	
+# Sect01 Ion Source 		# s01_ion_source 		# m03_ao04_nc4 		# 0 		# None 	
+# Ortec 996 Gate 		# test_ao00 		# m03_ao00_nc1 		# 0.000000 		# None 	
+# Ortec 996 Gate 		# test_ao00 		# m03_ao00_nc2 		# 0 		# None 	
+# Ortec 996 Gate 		# test_ao00 		# m03_ao00_nc3 		# 0.000610 		# None 	
+# Ortec 996 Gate 		# test_ao00 		# m03_ao00_nc4 		# 0 		# None 	

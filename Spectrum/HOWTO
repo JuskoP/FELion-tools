@@ -1,0 +1,44 @@
+
+--------------------------------------------------------------------------------
+     Spectrum -- simple program for visualisation of FELion acquired spectra
+--------------------------------------------------------------------------------
+
+
+This folder contains several subprograms:
+
+f_baseline.py:
+    this is a graphical tool to help with defining the baseline of the 
+    measurement
+
+f_sa.py:
+    this tool calibrates data against the spectrum analyser value
+    (SA is stored automatically in .felix file)
+
+f_power.py:
+    this tool calibrates data against power (stored in .pow file!)
+
+f_norm_line.py:
+    uses all the tools to create the normalised spectrum of the data
+
+avg_spectrum.py:
+    can average several spectra together to create the final plot
+
+Note:
+All the input files are in the DATA directory.
+
+
+--------------------------------------------------------------------------------
+WORKFLOW:
+
+1. One needs to edit the .pow file manually (see examples in DATA/)
+2. Use f_baseline.py to define a correct baseline
+3. Use f_norm_line.py to plot the spectrum of the single file
+4. Use avg_spectrum.py to average several data files together
+
+Notes:
+1. In .felix file, one can use # as a comment to remove data points (e.g. after 
+    felix stopped)
+2. In .felix file, one can use "- values" in the last column, to ignore the 
+    values of the SA (e.g. when it goes crazy)
+3. Do not forget to set the desired DELTA width for binning of data points in 
+    the avg_spectrum.py!
